@@ -1,0 +1,105 @@
+-error- change text feild to form feild
+
+*** change blinding colors
+
+*** change Raisedbutton to flat button
+
+*** change slivergrid to sttagered grid view
+
+*** change the app bar from sliver to pinned
+
+*** add note long press animation
+
+*** add pinned note option
+
+*** add title for each note 
+
+*** save on the back button pressed 
+
+-not possible- fix text alignement issues
+
+*** text width and size
+
+*** Dark Theme option
+
+*** Settings and help pages use emm Sharedprefrences files
+
+
+
+*** settings page 
+
+*** theme mode
+
+*** text size and thikness
+
+*** title size and thikness
+
+*** default note color 
+
+*** primary app color 
+
+*** Reset Settings 
+
+*** add start up notes
+
+fix animation speed
+
+*** thikness
+
+
+
+  make notes reorderable
+
+  *** add more note colors
+
+  *** add flare title 
+
+  add an app openning animation
+
+  *** add Archive and Bin pages
+
+  *** add more fonts
+
+  add Folder feature 
+
+  add images import from gallery
+
+  arabic text problem on read mode
+
+  *** delete note warnning
+
+  *** limit title length to 20 character
+
+  *** change text fields tags
+
+  grammar mistakes correction
+
+
+
+  MUST DOO:
+
+
+  *** add Button Function 
+
+  
+
+  *** Panel Icons Functions
+
+  *** Database importing
+
+  *** Database Notes Filtring 
+
+  Help page Correction 
+
+  Link Sliders with SHP 
+
+  Reset Button Function 
+
+  Change App Icon
+
+  Read Page Background 
+
+  Add Sketcher
+	
+  
+ 
